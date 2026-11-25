@@ -1,0 +1,12 @@
+{
+  "name": "zsu-donate",
+  "version": "1.0.0",
+  "description": "Сторінка донату для ЗСУ (WayForPay, sandbox)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
